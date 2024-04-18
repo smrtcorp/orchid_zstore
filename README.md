@@ -1,10 +1,8 @@
-# OrchidUI for OrchidOS
-
-The user interface and experience of OrchidOS
-
-[Update 1.0.145 Changelog](UPDATE.md)
+# Orchid ZStore Port
+By Smrt.Corp
 
 # Building
+Building is the same as it is for the normal orchidos
 
 To be able to run the user interface, the source code requires Node.js and you have to install the required node dependencies:
 ```sh
